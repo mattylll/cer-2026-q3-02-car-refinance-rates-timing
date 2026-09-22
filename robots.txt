@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/cer-2026-q3-02-car-refinance-rates-timing/sitemap.xml
